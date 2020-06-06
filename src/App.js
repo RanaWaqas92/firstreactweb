@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
       </header> */}
       <h1>Hellow World</h1>
       <h1>i m bootcamp2020 student</h1>
-      
+      <h1>Done</h1>
     </div>
   );
 }
