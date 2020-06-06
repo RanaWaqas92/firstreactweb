@@ -34,7 +34,7 @@ jobs:
       
     - name : deploying surge
       run: surge ./build http://ranawaqasbootcamp2020react.surge.sh --token ${{secrets.SURGE_TOKENKEY}}
-      
+  
 
     # Runs a single command using the runners shell
    # - name: Run a one-line script
